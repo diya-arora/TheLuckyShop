@@ -30,6 +30,6 @@ The Lucky Shop is a robust e-commerce platform crafted with cutting-edge technol
   - Bcrypt Password Hashing
 
 - **Screenshots**:
-<img src='/Users/diya/Desktop/projects/The-Lucky-Shop/278069850-72222d29-a410-4791-8a69-391312d6d54c.png' width='150px'/>
-<img src='/Users/diya/Desktop/projects/The-Lucky-Shop/278069850-72222d29-a410-4791-8a69-391312d6d54c.png' width='150px'/>
-<img src='/Users/diya/Desktop/projects/The-Lucky-Shop/278069803-f98449aa-1430-45b9-886f-a5b5cb14e2d1.gif' width='150px'/>
+<img src='/Users/diya/Desktop/projects/The-Shop/278069850-72222d29-a410-4791-8a69-391312d6d54c.png' width='150px'/>
+<img src='/Users/diya/Desktop/projects/The-Shop/278069818-266cb152-b72a-4bd9-885e-254f874ea0d9.gif' width='150px'/>
+<img src='/Users/diya/Desktop/projects/The-Shop/278069803-f98449aa-1430-45b9-886f-a5b5cb14e2d1.gif' width='150px'/>
