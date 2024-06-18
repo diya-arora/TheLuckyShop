@@ -30,6 +30,8 @@ The Lucky Shop is a robust e-commerce platform crafted with cutting-edge technol
   - Bcrypt Password Hashing
 
 - **Screenshots**:
-<img src='./readmeimg/1.png' width='150px'/>
-<img src='./readmeimg/2.gif' width='150px'/>
-<img src='./readmeimg/3.gif' width='150px'/>
+<div style= "display : flex; flex-direction : row">                        
+  <img src='./readmeimg/1.png' width='150px'/>
+  <img src='./readmeimg/2.gif' width='150px'/>
+  <img src='./readmeimg/3.gif' width='150px'/>
+</div>
